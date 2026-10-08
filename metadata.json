@@ -1,0 +1,6 @@
+{
+  "name": "Women Clothing — Luxury E-Commerce",
+  "description": "Premium modern women's fashion e-commerce destination with complete shopping experience and comprehensive boutique management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
